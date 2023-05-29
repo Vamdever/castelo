@@ -9,4 +9,24 @@ p {    color: red;
   
   <link href="estilo.css" rel="stylesheet">
 
-  
+  #primeiro {
+    color: green;
+    background-color: blue
+  }
+
+a:hover {
+  background-color:brown
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
