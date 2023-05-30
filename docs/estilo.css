@@ -7,11 +7,6 @@ body {
 p {    color: red;
   }
   
-  
- #primeiro {
-  color: green;
-}
-
 a:hover {
   background-color:brown;
 }
