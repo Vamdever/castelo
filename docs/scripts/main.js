@@ -1,6 +1,6 @@
 
 const myHeading = document.querySelector("h1");
-myHeading.textContent = "Olá mundo!";
+myHeading.textContent = "Viagem sem rumo..";
 
 function falaOi() {
  titulo.style.backgroundColor='white;'
