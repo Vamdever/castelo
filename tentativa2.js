@@ -1,0 +1,1 @@
+const imgVida = =document.querySelector('vida > img')
